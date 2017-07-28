@@ -3,3 +3,6 @@ example/table_scene_lms400.pcd
 Exercise-1/extracted_inliers.pcd
 Exercise-1/extracted_inliers.pcd
 Exercise-1/pass_through_filtered.pcd
+Exercise-1/extracted_outliers.pcd
+Exercise-1/voxel_downsampled.pcd
+*.pyc
